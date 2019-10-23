@@ -3,10 +3,25 @@
 }
 */
 
+body {
+	background-image: url(71500209_951602568550261_5378627664070311936_n.jpg);
+	background-size: cover;
+}
+
 h2 {
-	color: red;
+	color: #AA4139;
+	text-align: center;
+	border: 3px solid #AA4139;
+	cursor: wait;
 }
 
 p {
-	color: green;
+	color: #AA4139;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	color: #AA4139;
+	
 }
