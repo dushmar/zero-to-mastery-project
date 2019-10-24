@@ -8,7 +8,7 @@ body {
 	background-size: cover;
 }
 
-h2 {
+h2, p {
 	color: #AA4139;
 	text-align: center;
 	border: 3px solid #AA4139;
@@ -19,9 +19,24 @@ p {
 	color: #AA4139;
 }
 
+.webtext {
+	border: 1px dashed blue;
+	
+}
+
+.active {
+	color: white;
+	
+}
+
 li {
 	list-style: none;
 	display: inline-block;
 	color: #AA4139;
+	
+}
+
+#div1 {
+	background: rgb(55, 55, 25);
 	
 }
